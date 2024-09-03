@@ -1,0 +1,23 @@
+    1  ls
+    2  -l
+    3  -la
+    4  ls-l
+    5  ls -l
+    6  ls -la
+    7  man ls
+    8  man man
+    9  pwd
+   10  whoami
+   11  echo "hola"
+   12  echo $HOME
+   13  ls
+   14  cat READme
+   15  cat README
+   16  cd repogit/
+   17  ls
+   18  git clone https://github.com/Frannky06/Repo_Coceres.git
+   19  ls
+   20  cd Repo_Coceres/
+   21  ls
+   22  history
+   23  history > historial.txt
